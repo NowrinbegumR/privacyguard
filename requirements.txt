@@ -1,0 +1,11 @@
+easyocr 
+spacy 
+opencv-python 
+pillow 
+matplotlib
+notebook
+pytesseract
+opencv-python
+scipy
+numpy
+torch
